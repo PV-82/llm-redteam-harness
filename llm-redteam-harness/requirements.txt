@@ -1,0 +1,2 @@
+matplotlib>=3.7   # optional: only for the results chart
+pytest>=7.4       # optional: only for the test suite
